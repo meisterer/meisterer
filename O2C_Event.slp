@@ -242,7 +242,7 @@
                     },
                     "filePath": {
                         "expression": false,
-                        "value": "one_order.json"
+                        "value": ""
                     },
                     "preventURLEncoding": {
                         "value": false
